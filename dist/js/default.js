@@ -1,0 +1,1 @@
+WebFont.load({google:{families:["Ubuntu:300,400,500,700","Montserrat:400,700"]}}),$(".carousel").carousel({interval:2e3}),$(".carousel").swiperight(function(){$(this).carousel("prev")}),$(".carousel").swipeleft(function(){$(this).carousel("next")});
